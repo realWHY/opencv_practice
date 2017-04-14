@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ConsoleApplication7.vcxproj -> C:\Users\Hungyu Wei\Documents\Visual Studio 2015\Projects\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
+  ConsoleApplication7.vcxproj -> C:\Users\Hungyu Wei\Documents\Visual Studio 2015\Projects\ConsoleApplication7\x64\Debug\ConsoleApplication7.pdb (Full PDB)

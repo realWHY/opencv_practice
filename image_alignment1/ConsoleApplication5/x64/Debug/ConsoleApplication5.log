@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\hungyu wei\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\source.cpp(50): error C2086: 'cv::Mat im1': 重複定義
+  c:\users\hungyu wei\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\source.cpp(45): note: 請參閱 'im1' 的宣告

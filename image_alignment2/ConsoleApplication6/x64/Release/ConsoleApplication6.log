@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  ConsoleApplication6.vcxproj -> c:\users\hungyu wei\documents\visual studio 2015\Projects\ConsoleApplication6\x64\Release\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\hungyu wei\documents\visual studio 2015\Projects\ConsoleApplication6\x64\Release\ConsoleApplication6.pdb (Full PDB)
